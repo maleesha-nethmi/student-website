@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>My Personal Website</title> 
+</head> 
+<body> 
+<h1>Maleesha Nethmi</h1> 
+    <p> 
+        My name is Maleesha Nethmi.I'm from Rathnapura. I'm 22 years old.I'm undergraguate student in University of Ruhuna.
+    </p> 
+ 
+    <h2>My Interests</h2> 
+ 
+    <ul> 
+        <li>Watching films</li> 
+        <li>Play games</li> 
+        <li>Reading books</li> 
+    </ul> 
+ 
+    <h2>My Goals</h2> 
+ 
+    <p> 
+        I want to be a data analyst. 
+    </p> 
+ 
+</body> 
+</html>
