@@ -6,10 +6,17 @@
 <body> 
 <h1>Maleesha Nethmi</h1> 
     <p> 
-        My name is Maleesha Nethmi.I'm from Rathnapura. I'm 22 years old.I'm undergraguate student in University of Ruhuna.
+        My name is Maleesha Nethmi.I'm from Rathnapura.
+	I'm 22 years old.I'm undergraguate student in 
+	University of Ruhuna.
     </p> 
+
+<h2>My Education</h2> 
+	<p> 
+	Passed AL examination. 
+	</p>
  
-    <h2>My Interests</h2> 
+ <h2>My Interests</h2> 
  
     <ul> 
         <li>Watching films</li> 
